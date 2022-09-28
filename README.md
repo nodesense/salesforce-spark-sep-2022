@@ -12,14 +12,16 @@ sudo chmod 777 /opt/spark-3.1.3-bin-hadoop3.2
 
 
 # KAFKA
- 
+```
 wget http://packages.confluent.io/archive/5.5/confluent-5.5.5-2.12.tar.gz
+
 tar xf confluent-5.5.5-2.12.tar.gz
 
 sudo mv confluent-5.5.5 /opt
 
 sudo chmod 777 /opt/confluent-5.5.5
 
+```
 
 # For BASH Shell
 
